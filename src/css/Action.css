@@ -1,0 +1,14 @@
+#action {
+  display: flex;
+  flex-flow: column wrap;
+}
+#action .bouton {
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=Action.css.map */
