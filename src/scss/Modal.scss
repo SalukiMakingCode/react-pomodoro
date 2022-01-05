@@ -1,0 +1,21 @@
+#box-modal {
+  text-align: center;
+  #unstyled-modal-title {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 3rem;
+  }
+  #unstyled-modal-description {
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #close {
+    cursor:pointer;
+  }
+  #restart {
+    cursor: pointer;
+    margin-left: 2rem;
+  }
+}

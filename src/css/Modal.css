@@ -1,0 +1,23 @@
+#box-modal {
+  text-align: center;
+}
+#box-modal #unstyled-modal-title {
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 3rem;
+}
+#box-modal #unstyled-modal-description {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+#box-modal #close {
+  cursor: pointer;
+}
+#box-modal #restart {
+  cursor: pointer;
+  margin-left: 2rem;
+}
+
+/*# sourceMappingURL=Modal.css.map */
